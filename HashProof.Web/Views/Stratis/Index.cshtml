@@ -1,0 +1,473 @@
+﻿@{
+    ViewData["Title"] = "Stratis";
+}
+@section styles
+{
+    <link href="~/lib/dropzone/dist/min/dropzone.min.css" rel="stylesheet" />
+}
+
+<div class="container">
+    <div class="clear">
+        &nbsp;&nbsp;
+    </div>
+    <div class="row">
+        <img src="~/images/stratislogo.png" width="205" height="111" /> &nbsp;&nbsp;<span class="h5">Your proof on Stratis blockchain</span>
+    </div>
+    <div class="row">
+        <div>
+            <ul class="nav nav-tabs wizard">
+                <li class="active"><a href="#tabcreatehash" data-toggle="tab" aria-expanded="true">Create Hash</a></li>
+                <li class=""><a href="#tabpayfee" data-toggle="tab" aria-expanded="false">Pay Fee</a></li>
+                <li class=""><a href="#tabviewproof" data-toggle="tab" aria-expanded="false">View Proof</a></li>
+            </ul>
+            <div id="tabsContent" class="tab-content wizard-content">
+                <div class="tab-pane fade active in" id="tabcreatehash">
+
+
+                    <div class="jumbotron">
+
+                        <div id="dropzone">
+                            <form action="/upload" class="dropzone needsclick dz-clickable" id="hashdrop">
+                                <div class="dz-message needsclick">
+                                    <div>
+                                        <strong>Drop files or click to upload.</strong><span> Selected files are <strong>not</strong> uploaded to server. All hashes are calculated in browser.</span>
+                                    </div>
+                                </div>
+
+                            </form>
+                        </div>
+                        <div id="hashzone" class="text-center  hide">
+                            <div class="progressbar">
+
+                            </div>
+                            <div id="hashstatus" class="clear ">
+                                &nbsp; &nbsp;
+                            </div>
+                            <div id="dochash-panel" class="h5">
+                                <span class="text-primary">Hash:</span> <span id="dochash"></span>
+                            </div>
+                            <div class="clear">
+                                &nbsp;&nbsp;
+                            </div>
+                            <div>
+
+                                <button id="btnReset1" class="btn btn-danger">Reset</button>
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                <button id="btnPayFee" class="btn btn-primary">Next</button>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="tab-pane fade" id="tabpayfee">
+                    <div class="jumbotron">
+                        <div id="payzone" class="text-center h5">
+                            <div>
+                                <span class="text-primary">Hash:</span> <span id="payhash"></span>
+                            </div>
+                            <div class="clear">
+                                &nbsp;&nbsp;
+                            </div>
+                            <div id="detspinner" class="cp-spinner cp-eclipse">
+
+                            </div>
+                            <div id="feeDetails">
+                                Pay <span id="payfee" class="text-danger"></span> strat to <span id="payaddress" class="text-primary"></span>
+                            </div>
+                            <div class="clear">
+                                &nbsp;&nbsp;
+                            </div>
+
+                            <div>
+                                <div id="feespinner" class="cp-spinner cp-meter"></div>
+                                <div>Waiting for fee (1-5 minutes)</div>
+                                @*<button id="btnReset2" class="btn btn-danger">Reset</button>*@
+                                @*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <button id="btnFeeNext" class="btn btn-primary hide">Next</button>*@
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="tab-pane fade" id="tabviewproof">
+                    <div class="jumbotron">
+                        <div class="text-center">
+                            <div id="vpspinner">
+                                <div id="proofspinner" class="cp-spinner cp-meter"></div>
+                                <div class="h5">Created proof. Waiting for confirmation (1-5 minutes )</div>
+                            </div>
+                            <div id="newProof">
+                                <div class="h4"><span class="glyphicon glyphicon-ok-circle" style="color:green"></span></div>
+
+                                <div>
+                                    <table class="table">
+                                        <tbody>
+                                        <tr>
+                                            <th>
+                                                Hash
+                                            </th>
+                                            <td class="text-left">
+                                                <span id="vphash"></span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th>
+                                                BlockId
+                                            </th>
+                                            <td class="text-left">
+                                                <span id="vpblockid"></span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th>
+                                                Block Height
+                                            </th>
+                                            <td class="text-left">
+                                                <span id="vpblockheight"></span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th>
+                                                TxId
+                                            </th>
+                                            <td class="text-left"> 
+                                                <span id="vptxid"></span>
+                                            </td>
+                                        </tr>
+                                            <tr>
+                                                <th>
+                                                    Address
+                                                </th>
+                                                <td class="text-left">
+                                                    <span id="vpfeeaddr"></span>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <button id="btnNewProof" class="btn btn-primary">Create New Proof</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="clear">
+        &nbsp;
+    </div>
+    <div class="row">
+        <div><span class="h4">Pending proofs</span><span>&nbsp;&nbsp;&nbsp;&nbsp;(All proofs pending over 24hrs will be deleted.)</span></div>
+        <div>
+            <table id="pendingtable" data-toggle="table"
+                   data-url="/Stratis/GetPending"
+                   data-side-pagination="server"
+                   data-pagination="true"
+                   data-page-list="[ 10]"
+                   data-search="true">
+                <thead>
+                    <tr>
+                        <th data-field="hash">Hash</th>
+                        <th data-field="datetime">Date Time</th>
+                        <th data-field="address">Address</th>
+                        <th data-field="status">Status</th>
+                    </tr>
+                </thead>
+            </table>
+
+        </div>
+    </div>
+    <div class="row">&nbsp;</div>
+    <div class="row">
+        <div><span class="h4">Confirmed proofs</span></div>
+        <div>
+            <table id="confirmedtable"
+                   data-toggle="table"
+                   data-url="/Stratis/GetConfirmed"
+                   data-side-pagination="server"
+                   data-pagination="true"
+                   data-page-list="[10]"
+                   data-search="true">
+                <thead>
+                    <tr>
+                        <th data-field="hash">Hash</th>
+                        <th data-field="datetime">Date Time</th>
+                        @*<th data-field="address">Address</th>*@
+                        @*<th data-field="blockid">BlockId</th>*@
+                        @*<th data-field="blockheight">BlockHeight</th>*@
+                        <th data-field="txid">TxId</th>
+                        @*<th data-field="status">Status</th>*@
+                    </tr>
+                </thead>
+            </table>
+        </div>
+    </div>
+</div>
+
+@section scripts
+{
+    <script src="~/lib/dropzone/dist/min/dropzone.min.js"></script>
+    <script src="~/lib/cryptojs/sha256.js"></script>
+    <script src="~/js/hashfile.js"></script>
+    <script>
+        var pendingTable = $("#pendingtable");
+        var confirmedTable = $("#confirmedtable");
+
+        $().ready(function() {
+
+            $("#dochash-panel").hide();
+            $("a[data-toggle='tab']").on('click',
+                function(e) {
+
+                    e.preventDefault();
+                    e.stopPropagation();
+                });
+            //pendingTable.bootstrapTable();
+
+            //confirmedTable.bootstrapTable();
+
+            function showTab(tab) {
+                $('.wizard a[href="#' + tab + '"]').tab('show');
+                refreshPending();
+                refreshConfirmed();
+            };
+
+            var fileDrop = null;
+            showHashZone(false);
+            $("#hashzone").removeClass("hide");
+            $("button[id*='btnReset']").on('click',
+                function(e) {
+                    resetAll();
+                });
+
+            function resetAll() {
+                showHashZone(false);
+
+                if (fileDrop) {
+
+                    fileDrop.removeAllFiles();
+                }
+                $("#dochash-panel").hide();
+                showTab('tabcreatehash');
+            }
+
+            $("#btnNewProof").on('click',
+                function(e) {
+
+                    resetAll();
+
+                });
+            var progressBar = new ProgressBar.Line('.progressbar',
+            {
+                strokeWidth: 2,
+                easing: 'easeInOut',
+                duration: 1000,
+                color: '#ff8c00',
+                trailColor: '#eee',
+                trailWidth: 1,
+                svgStyle: { width: '100%', height: '100%' },
+                text: {
+                    style: {
+                        color: '#fff',
+                        fontWeight: 'bold',
+                        position: 'absolute',
+                        top: '2%',
+                        left: '45%',
+                        padding: 0,
+                        margin: "0 auto",
+                        transform: null
+                    }
+                },
+                from: { color: '#FFEA82' },
+                to: { color: '#ED6A5A' }
+            });
+
+            function onHashProgress(progress) {
+                var val = progress.change / 100;
+
+                if (val > 0) {
+                    progressBar.set(val);
+                    var status = 'Hashing ' + progress.currentsize + ', Time: ' + progress.totaltime + 's';
+                    var text = progress.change + '%';
+                    progressBar.setText(text);
+                    $("#hashstatus").text(status);
+                }
+
+            }
+
+            function onHashComplete(det) {
+                $("#dochash-panel").show();
+                $("#dochash").text(det.hash.toString());
+
+            }
+
+            $("#btnPayFee").on('click',
+                function(e) {
+                    var hash = $("#dochash").text();
+                    if (hash && hash.length > 0) {
+                        $("#feespinner").hide();
+                        $("#detspinner").show();
+                        $("#feeDetails").hide();
+
+                        showTab('tabpayfee');
+                        $("#payhash").text($("#dochash").text());
+                        generatePayment();
+                    }
+                });
+
+
+            function startCheckFee() {
+                Poll.start({
+                    name: "checkfee",
+                    interval: 30000,
+                    action: function() {
+                        var hash = $("#dochash").text();
+                        $.getJSON("/Stratis/CheckFee?hash=" + hash,
+                            function(data, status, xhr) {
+                                if (data) {
+                                    console.log('Proof ', data);
+                                    stopCheckFee();
+                                    viewProof(data);
+                                } else {
+                                    console.log('No proof while checking fee ', status);
+                                }
+                            });
+
+                    }
+                });
+            }
+
+            function startCheckProof() {
+                Poll.start({
+                    name: "checkproof",
+                    interval: 30000,
+                    action: function() {
+                        var hash = $("#dochash").text();
+                        $.getJSON("/Stratis/CheckProof?hash=" + hash,
+                            function(data, status, xhr) {
+                                if (data) {
+                                    console.log('Proof ', data);
+                                    stopCheckProof();
+                                    refreshConfirmed();
+                                    viewProofDetails();
+                                } else {
+                                    console.log('No proof while checking proof ', status);
+                                }
+
+                            });
+
+                    }
+                });
+            }
+
+            function viewProofDetails() {
+
+                var hash = $("#dochash").text();
+                $.getJSON("/Stratis/GetProof?hash=" + hash,
+                    function(data, status, xhr) {
+                        if (data) {
+                            console.log('Proof ', data);
+                            $("#vphash").text(data.hash);
+                            $("#vpblockid").text(data.blockid);
+                            $("#vpblockheight").text(data.blockheight);
+                            $("#vptxid").text(data.txid);
+                            $("#vpfeeaddr").text(data.address);
+                        } else {
+                            console.log('No proof while displaying proof ', status);
+                        }
+                    });
+
+            }
+
+            function stopCheckProof() {
+                Poll.stop("checkproof");
+                $("#newProof").show();
+                $("#vpspinner").hide();
+            }
+
+            function viewProof(proof) {
+                $("#newProof").hide();
+                $("#vpspinner").show();
+                showTab('tabviewproof');
+
+                startCheckProof();
+            }
+
+            function stopCheckFee() {
+                Poll.stop("checkfee");
+                $("#feespinner").hide();
+            }
+
+            function generatePayment() {
+                var hash = $("#dochash").text();
+
+                $.getJSON("/Stratis/GeneratePayment?hash=" + hash,
+                    function(data) {
+                        if (data) {
+                            $("#detspinner").hide();
+
+                            $("#payaddress").text(data.address);
+                            $("#payfee").text(data.fee);
+                            $("#feeDetails").show();
+                            $("#feespinner").show();
+                            startCheckFee();
+                        }
+                    });
+            }
+
+            function refreshPending() {
+                setTimeout(function() {
+
+                        pendingTable.bootstrapTable('showLoading');
+                        pendingTable.bootstrapTable('refresh');
+                        pendingTable.bootstrapTable('hideLoading');
+                    },
+                    1000);
+            }
+
+            function refreshConfirmed() {
+                setTimeout(function() {
+
+                        confirmedTable.bootstrapTable('showLoading');
+                        confirmedTable.bootstrapTable('refresh');
+                        confirmedTable.bootstrapTable('hideLoading');
+                    },
+                    1000);
+            }
+
+            function showHashZone(show) {
+
+                if (show) {
+                    $("#dropzone").hide();
+                    $("#hashzone").show();
+                    $("#dochash").text('');
+                    progressBar.set(0);
+                } else {
+                    $("#dropzone").show();
+                    $("#hashzone").hide();
+                }
+
+            }
+
+
+            function onInitDrop(el) {
+                fileDrop = el;
+            }
+
+            function onFileDrop(det) {
+                showHashZone(true);
+
+            }
+
+            window.initDropZone('hashdrop',
+            {
+                onProgress: onHashProgress,
+                onComplete: onHashComplete,
+                onFileDrop: onFileDrop,
+                onInitDrop: onInitDrop
+            });
+
+        });
+    </script>
+}

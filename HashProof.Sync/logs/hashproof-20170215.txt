@@ -1,0 +1,58 @@
+2017-02-15 22:54:06.102 +11:00 [Information] Application base path C:\Projects\Stratis\HashProof\HashProof.Sync\bin\Debug\netcoreapp1.0\data
+2017-02-15 22:54:07.052 +11:00 [Information] Initiasing sync module
+2017-02-15 22:54:09.457 +11:00 [Information] Initiated node sync
+2017-02-15 22:54:09.463 +11:00 [Information] Initialising Scheduling ..
+2017-02-15 22:54:09.549 +11:00 [Information] Starting sync 
+2017-02-15 22:54:09.562 +11:00 [Information] Starting initializing
+2017-02-15 22:54:10.931 +11:00 [Information] Exception while syncing System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at nStratis.Protocol.Node..ctor(NetworkAddress peer, Network network, NodeConnectionParameters parameters)
+   at nStratis.Protocol.Node.Connect(Network network, IPEndPoint endpoint, NodeConnectionParameters parameters)
+   at nStratis.Protocol.Node.ConnectToLocal(Network network, ProtocolVersion myVersion, Boolean isRelay, CancellationToken cancellation)
+   at HashProof.Sync.NodeSync.Sync() in C:\Projects\Stratis\HashProof\HashProof.Sync\NodeSync.cs:line 168
+2017-02-15 22:57:23.084 +11:00 [Information] Application base path C:\Projects\Stratis\HashProof\HashProof.Sync\bin\Debug\netcoreapp1.0\data
+2017-02-15 22:57:24.565 +11:00 [Information] Initiasing sync module
+2017-02-15 22:57:26.882 +11:00 [Information] Initiated node sync
+2017-02-15 22:57:26.889 +11:00 [Information] Initialising Scheduling ..
+2017-02-15 22:57:26.963 +11:00 [Information] Starting initializing
+2017-02-15 22:57:26.964 +11:00 [Information] Starting sync 
+2017-02-15 22:57:27.150 +11:00 [Information] ************************************************
+2017-02-15 22:57:27.167 +11:00 [Information] Connecting to Node 
+2017-02-15 22:57:27.169 +11:00 [Information] Node selected ::ffff:127.0.0.1
+2017-02-15 22:57:27.355 +11:00 [Information] Connected...
+2017-02-15 22:57:27.361 +11:00 [Information] Last Seen -->15/02/2017 11:57:27 AM +00:00
+2017-02-15 22:57:27.365 +11:00 [Information] Checking chain
+2017-02-15 22:57:27.370 +11:00 [Information] Loading chain from disk...
+2017-02-15 22:57:27.375 +11:00 [Information] Checking chain file on disk ... 
+2017-02-15 22:57:27.381 +11:00 [Information] Exists, loading now..
+2017-02-15 22:57:33.079 +11:00 [Information] Retrieving latest block...
+2017-02-15 22:57:33.088 +11:00 [Information] Retrieving get latest blocks
+2017-02-15 22:57:33.097 +11:00 [Information] Initialising Repository
+2017-02-15 22:57:47.757 +11:00 [Information] Latest Block HashProof.Core.Models.Mongo.MongoBlockData
+2017-02-15 22:57:47.760 +11:00 [Information] Synching latest chain...
+2017-02-15 22:57:48.024 +11:00 [Information] Lastest Chain Height: 250602
+2017-02-15 22:57:48.029 +11:00 [Information] Retrieving chained blocks from height 249301
+2017-02-15 22:57:48.044 +11:00 [Information] Total blocks to save 1301
+2017-02-15 22:57:48.069 +11:00 [Information] Retrieving chunks from 0 - 1000
+2017-02-15 22:57:48.076 +11:00 [Information] Saving blocks
+2017-02-15 22:57:51.437 +11:00 [Information] Saved blocks
+2017-02-15 22:57:51.444 +11:00 [Information] Retrieving chunks from 1000 - 2000
+2017-02-15 22:57:51.447 +11:00 [Information] Saving blocks
+2017-02-15 22:57:52.200 +11:00 [Information] Saved blocks
+2017-02-15 22:57:52.214 +11:00 [Information] Finished syncing...
+2017-02-15 22:57:53.758 +11:00 [Information] Disconnecting node....
+2017-02-15 22:57:53.842 +11:00 [Information] ************************************************
+2017-02-15 22:57:56.941 +11:00 [Information] Starting sync 
+2017-02-15 22:57:56.956 +11:00 [Information] ************************************************
+2017-02-15 22:57:56.968 +11:00 [Information] Connecting to Node 
+2017-02-15 22:57:56.982 +11:00 [Information] Node selected ::ffff:127.0.0.1
+2017-02-15 22:57:57.044 +11:00 [Information] Connected...
+2017-02-15 22:57:57.053 +11:00 [Information] Last Seen -->15/02/2017 11:57:57 AM +00:00
+2017-02-15 22:57:57.067 +11:00 [Information] Checking chain
+2017-02-15 22:57:57.078 +11:00 [Information] Retrieving latest block...
+2017-02-15 22:57:57.091 +11:00 [Information] Retrieving get latest blocks
+2017-02-15 22:57:59.838 +11:00 [Information] Latest Block HashProof.Core.Models.Mongo.MongoBlockData
+2017-02-15 22:57:59.845 +11:00 [Information] Synching latest chain...
+2017-02-15 22:57:59.991 +11:00 [Information] Lastest Chain Height: 250602
+2017-02-15 22:57:59.998 +11:00 [Information] Finished syncing...
+2017-02-15 22:58:02.234 +11:00 [Information] Disconnecting node....
+2017-02-15 22:58:02.238 +11:00 [Information] ************************************************

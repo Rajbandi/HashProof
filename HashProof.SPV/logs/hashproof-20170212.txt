@@ -1,0 +1,579 @@
+2017-02-12 00:13:13.947 +11:00 [Information] SPV Wallet starting
+2017-02-12 00:13:14.105 +11:00 [Information] SPV Wallet init
+2017-02-12 00:13:14.236 +11:00 [Information] Loading SPV Wallet
+2017-02-12 00:13:14.242 +11:00 [Information] Start connecting
+2017-02-12 00:16:10.295 +11:00 [Information] SPV Wallet starting
+2017-02-12 00:16:10.684 +11:00 [Information] SPV Wallet init
+2017-02-12 00:16:10.893 +11:00 [Information] Loading SPV Wallet
+2017-02-12 00:16:10.897 +11:00 [Information] Start connecting
+2017-02-12 00:16:51.751 +11:00 [Information] SPV Wallet starting
+2017-02-12 00:16:52.127 +11:00 [Information] SPV Wallet init
+2017-02-12 00:16:52.337 +11:00 [Information] Loading SPV Wallet
+2017-02-12 00:16:52.341 +11:00 [Information] Start connecting
+2017-02-12 00:18:07.281 +11:00 [Information] SPV Wallet starting
+2017-02-12 00:18:07.668 +11:00 [Information] SPV Wallet init
+2017-02-12 00:18:07.878 +11:00 [Information] Loading SPV Wallet
+2017-02-12 00:18:07.883 +11:00 [Information] Start connecting
+2017-02-12 00:19:34.212 +11:00 [Information] SPV Wallet starting
+2017-02-12 00:19:34.609 +11:00 [Information] SPV Wallet init
+2017-02-12 00:19:34.817 +11:00 [Information] Loading SPV Wallet
+2017-02-12 00:19:34.822 +11:00 [Information] Start connecting
+2017-02-12 00:19:35.100 +11:00 [Information] Configuring groups
+2017-02-12 00:19:35.167 +11:00 [Information] Connecting Wallet
+2017-02-12 00:20:02.663 +11:00 [Information] SPV Wallet starting
+2017-02-12 00:20:03.101 +11:00 [Information] SPV Wallet init
+2017-02-12 00:20:03.312 +11:00 [Information] Loading SPV Wallet
+2017-02-12 00:20:03.318 +11:00 [Information] Start connecting
+2017-02-12 00:20:03.594 +11:00 [Information] Configuring groups
+2017-02-12 00:20:03.651 +11:00 [Information] Connecting Wallet
+2017-02-12 00:28:42.849 +11:00 [Information] SPV Wallet starting
+2017-02-12 00:28:42.961 +11:00 [Information] SPV Wallet init
+2017-02-12 00:28:43.018 +11:00 [Information] Loading SPV Wallet
+2017-02-12 00:28:43.020 +11:00 [Information] Start connecting
+2017-02-12 00:28:43.089 +11:00 [Information] Configuring groups
+2017-02-12 00:28:43.107 +11:00 [Information] Connecting Wallet
+2017-02-12 00:28:44.111 +11:00 [Information] Current Height 0
+2017-02-12 00:28:44.113 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:28:45.117 +11:00 [Information] Current Height 0
+2017-02-12 00:28:45.120 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:28:46.122 +11:00 [Information] Current Height 0
+2017-02-12 00:28:46.125 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:28:47.128 +11:00 [Information] Current Height 0
+2017-02-12 00:28:47.130 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:28:48.141 +11:00 [Information] Current Height 0
+2017-02-12 00:28:48.144 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:28:49.146 +11:00 [Information] Current Height 0
+2017-02-12 00:28:49.150 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:28:50.153 +11:00 [Information] Current Height 0
+2017-02-12 00:28:50.155 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:28:51.157 +11:00 [Information] Current Height 0
+2017-02-12 00:28:51.161 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:28:52.163 +11:00 [Information] Current Height 0
+2017-02-12 00:28:52.167 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:28:53.169 +11:00 [Information] Current Height 0
+2017-02-12 00:28:53.172 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:28:54.175 +11:00 [Information] Current Height 0
+2017-02-12 00:28:54.178 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:28:55.180 +11:00 [Information] Current Height 0
+2017-02-12 00:28:55.183 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:28:56.187 +11:00 [Information] Current Height 0
+2017-02-12 00:28:56.192 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:28:57.196 +11:00 [Information] Current Height 0
+2017-02-12 00:28:57.201 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:28:58.204 +11:00 [Information] Current Height 0
+2017-02-12 00:28:58.209 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:28:59.214 +11:00 [Information] Current Height 0
+2017-02-12 00:28:59.220 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:29:00.224 +11:00 [Information] Current Height 0
+2017-02-12 00:29:00.228 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:29:01.231 +11:00 [Information] Current Height 0
+2017-02-12 00:29:01.233 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:29:02.248 +11:00 [Information] Current Height 0
+2017-02-12 00:29:02.254 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:29:14.904 +11:00 [Information] SPV Wallet starting
+2017-02-12 00:29:15.012 +11:00 [Information] SPV Wallet init
+2017-02-12 00:29:15.070 +11:00 [Information] Loading SPV Wallet
+2017-02-12 00:29:15.072 +11:00 [Information] Start connecting
+2017-02-12 00:29:15.143 +11:00 [Information] Configuring groups
+2017-02-12 00:29:15.158 +11:00 [Information] Connecting Wallet
+2017-02-12 00:29:20.163 +11:00 [Information] Current Height 0
+2017-02-12 00:29:20.167 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:29:25.171 +11:00 [Information] Current Height 0
+2017-02-12 00:29:25.174 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:29:30.183 +11:00 [Information] Current Height 0
+2017-02-12 00:29:30.184 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:29:35.200 +11:00 [Information] Current Height 0
+2017-02-12 00:29:35.209 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:29:40.217 +11:00 [Information] Current Height 0
+2017-02-12 00:29:40.218 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:29:45.229 +11:00 [Information] Current Height 0
+2017-02-12 00:29:45.231 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:29:50.247 +11:00 [Information] Current Height 0
+2017-02-12 00:29:50.247 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:29:55.264 +11:00 [Information] Current Height 0
+2017-02-12 00:29:55.267 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:30:00.279 +11:00 [Information] Current Height 0
+2017-02-12 00:30:00.282 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:30:05.294 +11:00 [Information] Current Height 0
+2017-02-12 00:30:05.296 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:30:10.308 +11:00 [Information] Current Height 0
+2017-02-12 00:30:10.311 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:30:15.325 +11:00 [Information] Current Height 0
+2017-02-12 00:30:15.328 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:30:20.341 +11:00 [Information] Current Height 0
+2017-02-12 00:30:20.345 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:30:25.349 +11:00 [Information] Current Height 0
+2017-02-12 00:30:25.353 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:30:30.356 +11:00 [Information] Current Height 0
+2017-02-12 00:30:30.359 +11:00 [Information] Connected Nodes 1
+2017-02-12 00:30:35.370 +11:00 [Information] Current Height 12000
+2017-02-12 00:30:35.372 +11:00 [Information] Connected Nodes 2
+2017-02-12 00:30:40.373 +11:00 [Information] Current Height 22000
+2017-02-12 00:30:40.375 +11:00 [Information] Connected Nodes 2
+2017-02-12 00:30:45.389 +11:00 [Information] Current Height 26000
+2017-02-12 00:30:45.393 +11:00 [Information] Connected Nodes 3
+2017-02-12 00:30:50.400 +11:00 [Information] Current Height 36000
+2017-02-12 00:30:50.404 +11:00 [Information] Connected Nodes 3
+2017-02-12 00:30:55.152 +11:00 [Information] Saving ....
+2017-02-12 00:30:55.418 +11:00 [Information] Current Height 46000
+2017-02-12 00:30:55.419 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:31:00.434 +11:00 [Information] Current Height 56000
+2017-02-12 00:31:00.435 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:31:05.450 +11:00 [Information] Current Height 62000
+2017-02-12 00:31:05.452 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:31:10.468 +11:00 [Information] Current Height 68000
+2017-02-12 00:31:10.473 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:31:15.492 +11:00 [Information] Current Height 72000
+2017-02-12 00:31:15.497 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:31:20.510 +11:00 [Information] Current Height 80000
+2017-02-12 00:31:20.515 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:31:25.532 +11:00 [Information] Current Height 84000
+2017-02-12 00:31:25.537 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:31:30.542 +11:00 [Information] Current Height 90000
+2017-02-12 00:31:30.546 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:31:35.560 +11:00 [Information] Current Height 94000
+2017-02-12 00:31:35.565 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:31:40.579 +11:00 [Information] Current Height 98000
+2017-02-12 00:31:40.584 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:31:45.601 +11:00 [Information] Current Height 102000
+2017-02-12 00:31:45.607 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:31:50.625 +11:00 [Information] Current Height 106000
+2017-02-12 00:31:50.629 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:31:55.635 +11:00 [Information] Current Height 110000
+2017-02-12 00:31:55.639 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:32:00.654 +11:00 [Information] Current Height 114000
+2017-02-12 00:32:00.660 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:32:05.674 +11:00 [Information] Current Height 118000
+2017-02-12 00:32:05.677 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:32:10.693 +11:00 [Information] Current Height 122000
+2017-02-12 00:32:10.696 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:32:15.713 +11:00 [Information] Current Height 128000
+2017-02-12 00:32:15.714 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:32:20.729 +11:00 [Information] Current Height 134000
+2017-02-12 00:32:20.734 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:32:25.756 +11:00 [Information] Current Height 140000
+2017-02-12 00:32:25.774 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:32:30.776 +11:00 [Information] Current Height 150000
+2017-02-12 00:32:30.779 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:32:35.167 +11:00 [Information] Saving ....
+2017-02-12 00:32:35.792 +11:00 [Information] Current Height 156000
+2017-02-12 00:32:35.797 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:32:40.810 +11:00 [Information] Current Height 164000
+2017-02-12 00:32:40.814 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:32:45.828 +11:00 [Information] Current Height 168000
+2017-02-12 00:32:45.829 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:32:50.843 +11:00 [Information] Current Height 174000
+2017-02-12 00:32:50.848 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:32:55.865 +11:00 [Information] Current Height 178000
+2017-02-12 00:32:55.870 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:33:00.886 +11:00 [Information] Current Height 180000
+2017-02-12 00:33:00.890 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:33:05.904 +11:00 [Information] Current Height 184000
+2017-02-12 00:33:05.909 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:33:10.925 +11:00 [Information] Current Height 186000
+2017-02-12 00:33:10.928 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:33:15.943 +11:00 [Information] Current Height 190000
+2017-02-12 00:33:15.947 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:33:20.965 +11:00 [Information] Current Height 196000
+2017-02-12 00:33:20.968 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:33:25.984 +11:00 [Information] Current Height 200000
+2017-02-12 00:33:25.989 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:33:31.003 +11:00 [Information] Current Height 206000
+2017-02-12 00:33:31.006 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:33:36.020 +11:00 [Information] Current Height 212000
+2017-02-12 00:33:36.023 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:33:41.027 +11:00 [Information] Current Height 222000
+2017-02-12 00:33:41.031 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:33:46.041 +11:00 [Information] Current Height 230000
+2017-02-12 00:33:46.041 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:33:51.059 +11:00 [Information] Current Height 234000
+2017-02-12 00:33:51.061 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:33:56.074 +11:00 [Information] Current Height 238000
+2017-02-12 00:33:56.076 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:34:01.088 +11:00 [Information] Current Height 242000
+2017-02-12 00:34:01.092 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:34:06.108 +11:00 [Information] Current Height 244000
+2017-02-12 00:34:06.112 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:34:11.124 +11:00 [Information] Current Height 245525
+2017-02-12 00:34:11.128 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:34:15.168 +11:00 [Information] Saving ....
+2017-02-12 00:34:16.144 +11:00 [Information] Current Height 245525
+2017-02-12 00:34:16.148 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:34:21.152 +11:00 [Information] Current Height 245525
+2017-02-12 00:34:21.156 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:35:39.157 +11:00 [Information] SPV Wallet starting
+2017-02-12 00:35:39.264 +11:00 [Information] SPV Wallet init
+2017-02-12 00:35:39.324 +11:00 [Information] Loading SPV Wallet
+2017-02-12 00:35:55.442 +11:00 [Information] SPV Wallet starting
+2017-02-12 00:35:55.552 +11:00 [Information] SPV Wallet init
+2017-02-12 00:35:55.611 +11:00 [Information] Loading SPV Wallet
+2017-02-12 00:35:55.612 +11:00 [Information] Start connecting
+2017-02-12 00:35:57.400 +11:00 [Information] Configuring groups
+2017-02-12 00:35:57.414 +11:00 [Information] Connecting Wallet
+2017-02-12 00:36:18.932 +11:00 [Information] SPV Wallet starting
+2017-02-12 00:36:19.041 +11:00 [Information] SPV Wallet init
+2017-02-12 00:36:19.101 +11:00 [Information] Loading SPV Wallet
+2017-02-12 00:36:19.104 +11:00 [Information] Start connecting
+2017-02-12 00:36:20.871 +11:00 [Information] Configuring groups
+2017-02-12 00:36:20.883 +11:00 [Information] Connecting Wallet
+2017-02-12 00:37:09.300 +11:00 [Information] SPV Wallet starting
+2017-02-12 00:37:09.404 +11:00 [Information] SPV Wallet init
+2017-02-12 00:37:09.466 +11:00 [Information] Loading SPV Wallet
+2017-02-12 00:37:09.470 +11:00 [Information] Start connecting
+2017-02-12 00:37:11.240 +11:00 [Information] Configuring groups
+2017-02-12 00:37:11.253 +11:00 [Information] Connecting Wallet
+2017-02-12 00:40:46.690 +11:00 [Information] SPV Wallet starting
+2017-02-12 00:40:47.103 +11:00 [Information] SPV Wallet init
+2017-02-12 00:40:47.351 +11:00 [Information] Loading SPV Wallet
+2017-02-12 00:40:47.356 +11:00 [Information] Start connecting
+2017-02-12 00:45:44.378 +11:00 [Information] SPV Wallet starting
+2017-02-12 00:45:44.778 +11:00 [Information] SPV Wallet init
+2017-02-12 00:46:20.908 +11:00 [Information] SPV Wallet starting
+2017-02-12 00:46:21.301 +11:00 [Information] SPV Wallet init
+2017-02-12 00:46:21.537 +11:00 [Information] Loading SPV Wallet
+2017-02-12 00:46:21.541 +11:00 [Information] Start connecting
+2017-02-12 00:46:27.324 +11:00 [Information] Configuring groups
+2017-02-12 00:46:27.406 +11:00 [Information] Connecting Wallet
+2017-02-12 00:46:32.788 +11:00 [Information] Current Height 245525
+2017-02-12 00:46:32.792 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:46:37.796 +11:00 [Information] Current Height 245540
+2017-02-12 00:46:37.799 +11:00 [Information] Connected Nodes 3
+2017-02-12 00:46:42.800 +11:00 [Information] Current Height 245540
+2017-02-12 00:46:42.802 +11:00 [Information] Connected Nodes 3
+2017-02-12 00:46:47.811 +11:00 [Information] Current Height 245540
+2017-02-12 00:46:47.814 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:46:52.823 +11:00 [Information] Current Height 245540
+2017-02-12 00:46:52.827 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:46:57.842 +11:00 [Information] Current Height 245540
+2017-02-12 00:46:57.845 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:47:02.856 +11:00 [Information] Current Height 245540
+2017-02-12 00:47:02.859 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:47:07.869 +11:00 [Information] Current Height 245540
+2017-02-12 00:47:07.873 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:47:12.887 +11:00 [Information] Current Height 245540
+2017-02-12 00:47:12.889 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:47:17.901 +11:00 [Information] Current Height 245540
+2017-02-12 00:47:17.905 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:47:22.919 +11:00 [Information] Current Height 245540
+2017-02-12 00:47:22.921 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:47:27.936 +11:00 [Information] Current Height 245540
+2017-02-12 00:47:27.938 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:47:32.952 +11:00 [Information] Current Height 245540
+2017-02-12 00:47:32.953 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:47:37.965 +11:00 [Information] Current Height 245540
+2017-02-12 00:47:37.968 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:47:42.979 +11:00 [Information] Current Height 245540
+2017-02-12 00:47:42.983 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:47:47.998 +11:00 [Information] Current Height 245540
+2017-02-12 00:47:48.001 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:47:53.015 +11:00 [Information] Current Height 245540
+2017-02-12 00:47:53.019 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:47:58.033 +11:00 [Information] Current Height 245540
+2017-02-12 00:47:58.038 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:48:03.042 +11:00 [Information] Current Height 245540
+2017-02-12 00:48:03.046 +11:00 [Information] Connected Nodes 4
+2017-02-12 00:48:36.291 +11:00 [Information] SPV Wallet starting
+2017-02-12 00:48:36.684 +11:00 [Information] SPV Wallet init
+2017-02-12 00:48:36.891 +11:00 [Information] Loading SPV Wallet
+2017-02-12 00:48:36.896 +11:00 [Information] Start connecting
+2017-02-12 00:48:42.442 +11:00 [Information] Configuring groups
+2017-02-12 00:48:42.507 +11:00 [Information] Connecting Wallet
+2017-02-12 00:48:47.734 +11:00 [Information] Current Height 245525
+2017-02-12 00:48:47.738 +11:00 [Information] Connected Nodes 0
+2017-02-12 00:54:00.765 +11:00 [Information] SPV Wallet starting
+2017-02-12 00:54:01.148 +11:00 [Information] SPV Wallet init
+2017-02-12 00:54:01.304 +11:00 [Information] Loading SPV Wallet
+2017-02-12 00:54:01.307 +11:00 [Information] Start connecting
+2017-02-12 00:54:07.674 +11:00 [Information] Configuring groups
+2017-02-12 00:54:07.705 +11:00 [Information] Connecting Wallet
+2017-02-12 00:54:17.934 +11:00 [Information] Current Height 245546
+2017-02-12 00:54:17.937 +11:00 [Information] Connected Nodes 1
+2017-02-12 00:54:17.939 +11:00 [Information] Saving ....
+2017-02-12 00:54:27.951 +11:00 [Information] Current Height 245546
+2017-02-12 00:54:27.953 +11:00 [Information] Connected Nodes 1
+2017-02-12 00:54:27.955 +11:00 [Information] Saving ....
+2017-02-12 00:54:37.965 +11:00 [Information] Current Height 245546
+2017-02-12 00:54:37.968 +11:00 [Information] Connected Nodes 1
+2017-02-12 00:54:37.970 +11:00 [Information] Saving ....
+2017-02-12 00:54:47.980 +11:00 [Information] Current Height 245546
+2017-02-12 00:54:47.983 +11:00 [Information] Connected Nodes 1
+2017-02-12 00:54:47.984 +11:00 [Information] Saving ....
+2017-02-12 00:54:57.987 +11:00 [Information] Current Height 245546
+2017-02-12 00:54:57.989 +11:00 [Information] Connected Nodes 1
+2017-02-12 00:54:57.992 +11:00 [Information] Saving ....
+2017-02-12 00:55:33.162 +11:00 [Information] SPV Wallet starting
+2017-02-12 00:55:33.293 +11:00 [Information] SPV Wallet init
+2017-02-12 00:55:33.356 +11:00 [Information] Loading SPV Wallet
+2017-02-12 00:55:33.454 +11:00 [Information] Start connecting
+2017-02-12 00:55:35.366 +11:00 [Information] Configuring groups
+2017-02-12 00:55:35.384 +11:00 [Information] Connecting Wallet
+2017-02-12 00:55:45.499 +11:00 [Information] Current Height 245546
+2017-02-12 00:55:45.500 +11:00 [Information] Connected Nodes 1
+2017-02-12 00:55:45.503 +11:00 [Information] Saving ....
+2017-02-12 00:55:55.514 +11:00 [Information] Current Height 245546
+2017-02-12 00:55:55.516 +11:00 [Information] Connected Nodes 1
+2017-02-12 00:55:55.517 +11:00 [Information] Saving ....
+2017-02-12 00:56:05.528 +11:00 [Information] Current Height 245546
+2017-02-12 00:56:05.529 +11:00 [Information] Connected Nodes 1
+2017-02-12 00:56:05.529 +11:00 [Information] Saving ....
+2017-02-12 00:56:15.542 +11:00 [Information] Current Height 245546
+2017-02-12 00:56:15.545 +11:00 [Information] Connected Nodes 2
+2017-02-12 00:56:15.546 +11:00 [Information] Saving ....
+2017-02-12 00:56:25.548 +11:00 [Information] Current Height 245546
+2017-02-12 00:56:25.550 +11:00 [Information] Connected Nodes 2
+2017-02-12 00:56:25.551 +11:00 [Information] Saving ....
+2017-02-12 10:18:49.748 +11:00 [Information] SPV Wallet starting
+2017-02-12 10:18:49.882 +11:00 [Information] SPV Wallet init
+2017-02-12 10:18:49.886 +11:00 [Information] Wallet already exist
+2017-02-12 10:18:49.886 +11:00 [Information] Loading SPV Wallet
+2017-02-12 10:18:50.079 +11:00 [Information] Start connecting
+2017-02-12 10:18:52.620 +11:00 [Information] Configuring groups
+2017-02-12 10:18:52.636 +11:00 [Information] Connecting Wallet
+2017-02-12 10:19:02.749 +11:00 [Information] Current Height 245546
+2017-02-12 10:19:02.749 +11:00 [Information] Connected Nodes 0
+2017-02-12 10:19:02.749 +11:00 [Information] Saving ....
+2017-02-12 10:26:05.634 +11:00 [Information] SPV Wallet starting
+2017-02-12 10:26:05.823 +11:00 [Information] SPV Wallet init
+2017-02-12 10:26:05.827 +11:00 [Information] Wallet already exist
+2017-02-12 10:26:05.828 +11:00 [Information] Loading SPV Wallet
+2017-02-12 10:26:06.065 +11:00 [Information] Start connecting
+2017-02-12 10:26:09.163 +11:00 [Information] Configuring groups
+2017-02-12 10:26:09.193 +11:00 [Information] Connecting Wallet
+2017-02-12 10:26:09.216 +11:00 [Information] Connected nodes -> 0
+2017-02-12 10:26:09.217 +11:00 [Information] Height -> 245546
+2017-02-12 10:26:09.232 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 10:26:09.233 +11:00 [Information] Saving ....
+2017-02-12 10:26:09.233 +11:00 [Information] ******************************************
+2017-02-12 10:26:19.219 +11:00 [Information] Connected nodes -> 0
+2017-02-12 10:26:19.223 +11:00 [Information] Height -> 245546
+2017-02-12 10:26:19.225 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 10:26:19.227 +11:00 [Information] Saving ....
+2017-02-12 10:26:19.230 +11:00 [Information] ******************************************
+2017-02-12 10:27:34.530 +11:00 [Information] SPV Wallet starting
+2017-02-12 10:27:34.775 +11:00 [Information] SPV Wallet init
+2017-02-12 10:27:34.783 +11:00 [Information] Wallet already exist
+2017-02-12 10:27:34.786 +11:00 [Information] Loading SPV Wallet
+2017-02-12 10:27:35.026 +11:00 [Information] Start connecting
+2017-02-12 10:27:37.841 +11:00 [Information] Configuring groups
+2017-02-12 10:27:37.865 +11:00 [Information] Connecting Wallet
+2017-02-12 10:27:37.890 +11:00 [Information] Connected nodes -> 0
+2017-02-12 10:27:37.891 +11:00 [Information] Height -> 245546
+2017-02-12 10:27:37.908 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 10:27:37.909 +11:00 [Information] Saving ....
+2017-02-12 10:27:37.910 +11:00 [Information] ******************************************
+2017-02-12 10:27:47.887 +11:00 [Information] Connected nodes -> 0
+2017-02-12 10:27:47.891 +11:00 [Information] Height -> 245546
+2017-02-12 10:27:47.892 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 10:27:47.895 +11:00 [Information] Saving ....
+2017-02-12 10:27:47.898 +11:00 [Information] ******************************************
+2017-02-12 10:27:57.888 +11:00 [Information] Connected nodes -> 0
+2017-02-12 10:27:57.891 +11:00 [Information] Height -> 245546
+2017-02-12 10:27:57.893 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 10:27:57.894 +11:00 [Information] Saving ....
+2017-02-12 10:27:57.895 +11:00 [Information] ******************************************
+2017-02-12 11:01:45.534 +11:00 [Information] SPV Wallet starting
+2017-02-12 11:01:45.638 +11:00 [Information] SPV Wallet init
+2017-02-12 11:01:45.641 +11:00 [Information] Wallet already exist
+2017-02-12 11:01:45.642 +11:00 [Information] Loading SPV Wallet
+2017-02-12 11:01:45.774 +11:00 [Information] Start connecting
+2017-02-12 11:01:49.283 +11:00 [Information] Configuring groups
+2017-02-12 11:01:49.327 +11:00 [Information] Connecting Wallet
+2017-02-12 11:01:49.372 +11:00 [Information] Connected nodes -> 0
+2017-02-12 11:01:49.374 +11:00 [Information] Height -> 245546
+2017-02-12 11:01:49.398 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:01:49.400 +11:00 [Information] Saving ....
+2017-02-12 11:01:49.401 +11:00 [Information] ******************************************
+2017-02-12 11:01:59.359 +11:00 [Information] Connected nodes -> 1
+2017-02-12 11:01:59.363 +11:00 [Information] Height -> 246091
+2017-02-12 11:01:59.366 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:01:59.368 +11:00 [Information] Saving ....
+2017-02-12 11:01:59.371 +11:00 [Information] ******************************************
+2017-02-12 11:02:09.371 +11:00 [Information] Connected nodes -> 1
+2017-02-12 11:02:09.374 +11:00 [Information] Height -> 246091
+2017-02-12 11:02:09.377 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:02:09.379 +11:00 [Information] Saving ....
+2017-02-12 11:02:09.381 +11:00 [Information] ******************************************
+2017-02-12 11:02:19.385 +11:00 [Information] Connected nodes -> 1
+2017-02-12 11:02:19.388 +11:00 [Information] Height -> 246091
+2017-02-12 11:02:19.390 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:02:19.391 +11:00 [Information] Saving ....
+2017-02-12 11:02:19.393 +11:00 [Information] ******************************************
+2017-02-12 11:03:00.159 +11:00 [Information] SPV Wallet starting
+2017-02-12 11:03:00.536 +11:00 [Information] SPV Wallet init
+2017-02-12 11:03:00.548 +11:00 [Information] Wallet already exist
+2017-02-12 11:03:00.551 +11:00 [Information] Loading SPV Wallet
+2017-02-12 11:03:01.079 +11:00 [Information] Start connecting
+2017-02-12 11:03:06.733 +11:00 [Information] Configuring groups
+2017-02-12 11:03:06.784 +11:00 [Information] Connecting Wallet
+2017-02-12 11:03:06.857 +11:00 [Information] Connected nodes -> 0
+2017-02-12 11:03:06.861 +11:00 [Information] Height -> 246091
+2017-02-12 11:03:06.912 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:03:06.914 +11:00 [Information] Saving ....
+2017-02-12 11:03:06.915 +11:00 [Information] ******************************************
+2017-02-12 11:05:18.608 +11:00 [Information] SPV Wallet starting
+2017-02-12 11:05:18.981 +11:00 [Information] SPV Wallet init
+2017-02-12 11:05:18.992 +11:00 [Information] Wallet already exist
+2017-02-12 11:05:18.995 +11:00 [Information] Loading SPV Wallet
+2017-02-12 11:05:19.485 +11:00 [Information] Start connecting
+2017-02-12 11:05:25.017 +11:00 [Information] Configuring groups
+2017-02-12 11:05:25.074 +11:00 [Information] Connecting Wallet
+2017-02-12 11:05:45.123 +11:00 [Information] Connected nodes -> 1
+2017-02-12 11:05:45.125 +11:00 [Information] Height -> 246095
+2017-02-12 11:05:45.165 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:05:45.167 +11:00 [Information] Saving ....
+2017-02-12 11:05:45.169 +11:00 [Information] ******************************************
+2017-02-12 11:07:23.402 +11:00 [Information] SPV Wallet starting
+2017-02-12 11:07:23.678 +11:00 [Information] SPV Wallet init
+2017-02-12 11:07:23.690 +11:00 [Information] Wallet Doesn't exist, creating new one
+2017-02-12 11:08:43.066 +11:00 [Information] SPV Wallet starting
+2017-02-12 11:08:43.439 +11:00 [Information] SPV Wallet init
+2017-02-12 11:08:43.450 +11:00 [Information] Wallet Doesn't exist, creating new one
+2017-02-12 11:08:43.642 +11:00 [Information] Start connecting
+2017-02-12 11:08:43.987 +11:00 [Information] Configuring groups
+2017-02-12 11:08:44.040 +11:00 [Information] New wallet, generating key pool 
+2017-02-12 11:08:44.705 +11:00 [Information] Connecting Wallet
+2017-02-12 11:09:27.633 +11:00 [Information] SPV Wallet starting
+2017-02-12 11:09:27.860 +11:00 [Information] SPV Wallet init
+2017-02-12 11:09:27.871 +11:00 [Information] Wallet Doesn't exist, creating new one
+2017-02-12 11:09:28.074 +11:00 [Information] Start connecting
+2017-02-12 11:09:28.400 +11:00 [Information] Configuring groups
+2017-02-12 11:09:28.461 +11:00 [Information] New wallet, generating key pool 
+2017-02-12 11:09:29.715 +11:00 [Information] Connecting Wallet
+2017-02-12 11:25:25.669 +11:00 [Information] SPV Wallet starting
+2017-02-12 11:25:25.988 +11:00 [Information] SPV Wallet init
+2017-02-12 11:25:25.992 +11:00 [Information] Wallet Doesn't exist, creating new one
+2017-02-12 11:25:26.162 +11:00 [Information] Start connecting
+2017-02-12 11:25:26.489 +11:00 [Information] Configuring groups
+2017-02-12 11:25:26.549 +11:00 [Information] New wallet, generating key pool 
+2017-02-12 11:25:27.690 +11:00 [Information] Connecting Wallet
+2017-02-12 11:25:27.705 +11:00 [Information] Wallet connected
+2017-02-12 11:25:27.713 +11:00 [Information] Running spv wallet
+2017-02-12 11:25:57.749 +11:00 [Information] Connected nodes -> 3
+2017-02-12 11:25:57.753 +11:00 [Information] Height -> 16000
+2017-02-12 11:25:57.787 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:25:57.791 +11:00 [Information] Saving ....
+2017-02-12 11:25:57.793 +11:00 [Information] ******************************************
+2017-02-12 11:26:07.761 +11:00 [Information] Connected nodes -> 3
+2017-02-12 11:26:07.764 +11:00 [Information] Height -> 40000
+2017-02-12 11:26:07.766 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:26:07.767 +11:00 [Information] Saving ....
+2017-02-12 11:26:07.768 +11:00 [Information] ******************************************
+2017-02-12 11:26:17.776 +11:00 [Information] Connected nodes -> 3
+2017-02-12 11:26:17.779 +11:00 [Information] Height -> 66000
+2017-02-12 11:26:17.782 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:26:17.784 +11:00 [Information] Saving ....
+2017-02-12 11:26:17.786 +11:00 [Information] ******************************************
+2017-02-12 11:26:27.777 +11:00 [Information] Connected nodes -> 3
+2017-02-12 11:26:27.781 +11:00 [Information] Height -> 88000
+2017-02-12 11:26:27.783 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:26:27.784 +11:00 [Information] Saving ....
+2017-02-12 11:26:27.786 +11:00 [Information] ******************************************
+2017-02-12 11:26:37.791 +11:00 [Information] Connected nodes -> 4
+2017-02-12 11:26:37.795 +11:00 [Information] Height -> 108000
+2017-02-12 11:26:37.817 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:26:37.827 +11:00 [Information] Saving ....
+2017-02-12 11:26:37.831 +11:00 [Information] ******************************************
+2017-02-12 11:26:47.809 +11:00 [Information] Connected nodes -> 4
+2017-02-12 11:26:47.813 +11:00 [Information] Height -> 126000
+2017-02-12 11:26:47.814 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:26:47.822 +11:00 [Information] Saving ....
+2017-02-12 11:26:47.825 +11:00 [Information] ******************************************
+2017-02-12 11:26:57.824 +11:00 [Information] Connected nodes -> 4
+2017-02-12 11:26:57.828 +11:00 [Information] Height -> 144000
+2017-02-12 11:26:57.831 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:26:57.838 +11:00 [Information] Saving ....
+2017-02-12 11:26:57.841 +11:00 [Information] ******************************************
+2017-02-12 11:27:07.840 +11:00 [Information] Connected nodes -> 4
+2017-02-12 11:27:07.845 +11:00 [Information] Height -> 158000
+2017-02-12 11:27:07.847 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:27:07.849 +11:00 [Information] Saving ....
+2017-02-12 11:27:07.854 +11:00 [Information] ******************************************
+2017-02-12 11:27:17.856 +11:00 [Information] Connected nodes -> 4
+2017-02-12 11:27:17.862 +11:00 [Information] Height -> 176000
+2017-02-12 11:27:17.865 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:27:17.870 +11:00 [Information] Saving ....
+2017-02-12 11:27:17.875 +11:00 [Information] ******************************************
+2017-02-12 11:27:27.869 +11:00 [Information] Connected nodes -> 4
+2017-02-12 11:27:27.873 +11:00 [Information] Height -> 190000
+2017-02-12 11:27:27.876 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:27:27.880 +11:00 [Information] Saving ....
+2017-02-12 11:27:27.887 +11:00 [Information] ******************************************
+2017-02-12 11:32:01.688 +11:00 [Information] SPV Wallet starting
+2017-02-12 11:32:02.007 +11:00 [Information] SPV Wallet init
+2017-02-12 11:32:02.011 +11:00 [Information] Wallet already exist
+2017-02-12 11:32:02.012 +11:00 [Information] Loading SPV Wallet
+2017-02-12 11:32:02.168 +11:00 [Information] Start connecting
+2017-02-12 11:32:06.482 +11:00 [Information] Configuring groups
+2017-02-12 11:32:06.535 +11:00 [Information] Connecting Wallet
+2017-02-12 11:32:06.550 +11:00 [Information] Wallet connected
+2017-02-12 11:32:06.558 +11:00 [Information] Running spv wallet
+2017-02-12 11:33:36.693 +11:00 [Information] Connected nodes -> 1
+2017-02-12 11:33:36.696 +11:00 [Information] Height -> 212000
+2017-02-12 11:33:36.741 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:33:36.745 +11:00 [Information] Saving ....
+2017-02-12 11:33:36.748 +11:00 [Information] ******************************************
+2017-02-12 11:33:46.723 +11:00 [Information] Connected nodes -> 1
+2017-02-12 11:33:46.724 +11:00 [Information] Height -> 236000
+2017-02-12 11:33:46.725 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:33:46.726 +11:00 [Information] Saving ....
+2017-02-12 11:33:46.727 +11:00 [Information] ******************************************
+2017-02-12 11:33:56.732 +11:00 [Information] Connected nodes -> 1
+2017-02-12 11:33:56.734 +11:00 [Information] Height -> 246115
+2017-02-12 11:33:56.736 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:33:56.737 +11:00 [Information] Saving ....
+2017-02-12 11:33:56.740 +11:00 [Information] ******************************************
+2017-02-12 11:34:06.733 +11:00 [Information] Connected nodes -> 1
+2017-02-12 11:34:06.736 +11:00 [Information] Height -> 246116
+2017-02-12 11:34:06.737 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:34:06.740 +11:00 [Information] Saving ....
+2017-02-12 11:34:06.742 +11:00 [Information] ******************************************
+2017-02-12 11:35:16.777 +11:00 [Information] Connected nodes -> 2
+2017-02-12 11:35:16.780 +11:00 [Information] Height -> 246117
+2017-02-12 11:35:16.782 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:35:16.792 +11:00 [Information] Saving ....
+2017-02-12 11:35:16.795 +11:00 [Information] ******************************************
+2017-02-12 11:35:46.793 +11:00 [Information] Connected nodes -> 2
+2017-02-12 11:35:46.798 +11:00 [Information] Height -> 246118
+2017-02-12 11:35:46.801 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:35:46.808 +11:00 [Information] Saving ....
+2017-02-12 11:35:46.811 +11:00 [Information] ******************************************
+2017-02-12 11:36:06.807 +11:00 [Information] Connected nodes -> 2
+2017-02-12 11:36:06.808 +11:00 [Information] Height -> 246119
+2017-02-12 11:36:06.808 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:36:06.809 +11:00 [Information] Saving ....
+2017-02-12 11:36:06.810 +11:00 [Information] ******************************************
+2017-02-12 11:39:29.909 +11:00 [Information] SPV Wallet starting
+2017-02-12 11:39:30.296 +11:00 [Information] SPV Wallet init
+2017-02-12 11:39:30.308 +11:00 [Information] Wallet Doesn't exist, creating new one
+2017-02-12 11:39:30.511 +11:00 [Information] Start connecting
+2017-02-12 11:39:36.317 +11:00 [Information] Configuring groups
+2017-02-12 11:39:36.376 +11:00 [Information] New wallet, generating key pool 
+2017-02-12 11:39:36.813 +11:00 [Information] Address SfFsHYhj3ao6DP7KvbLuCtmGD45Y4gr6Wz
+2017-02-12 11:39:37.459 +11:00 [Information] Connecting Wallet
+2017-02-12 11:39:37.474 +11:00 [Information] Wallet connected
+2017-02-12 11:39:37.481 +11:00 [Information] Running spv wallet
+2017-02-12 11:39:57.530 +11:00 [Information] Connected nodes -> 2
+2017-02-12 11:39:57.532 +11:00 [Information] Height -> 246124
+2017-02-12 11:39:57.565 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:39:57.570 +11:00 [Information] Saving ....
+2017-02-12 11:39:57.572 +11:00 [Information] ******************************************
+2017-02-12 11:40:17.542 +11:00 [Information] Connected nodes -> 2
+2017-02-12 11:40:17.545 +11:00 [Information] Height -> 246125
+2017-02-12 11:40:17.546 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:40:17.548 +11:00 [Information] Saving ....
+2017-02-12 11:40:17.549 +11:00 [Information] ******************************************
+2017-02-12 11:41:07.589 +11:00 [Information] Connected nodes -> 4
+2017-02-12 11:41:07.592 +11:00 [Information] Height -> 246126
+2017-02-12 11:41:07.595 +11:00 [Information] Wallet Balance -> 0
+2017-02-12 11:41:07.596 +11:00 [Information] Saving ....
+2017-02-12 11:41:07.599 +11:00 [Information] ******************************************
+2017-02-12 11:41:35.864 +11:00 [Information] SPV Wallet starting
+2017-02-12 11:41:36.237 +11:00 [Information] SPV Wallet init
+2017-02-12 11:41:36.249 +11:00 [Information] Wallet Doesn't exist, creating new one
+2017-02-12 11:41:36.457 +11:00 [Information] Start connecting
+2017-02-12 11:41:42.330 +11:00 [Information] Configuring groups
+2017-02-12 11:41:42.383 +11:00 [Information] New wallet, generating key pool 
+2017-02-12 11:41:42.840 +11:00 [Information] Address SfFsHYhj3ao6DP7KvbLuCtmGD45Y4gr6Wz
+2017-02-12 11:41:43.545 +11:00 [Information] Connecting Wallet
+2017-02-12 11:41:43.556 +11:00 [Information] Wallet connected
+2017-02-12 11:41:43.562 +11:00 [Information] Running spv wallet

@@ -1,0 +1,288 @@
+2017-02-23 00:00:00.452 +11:00 [Information] Initiasing sync module
+2017-02-23 00:00:00.530 +11:00 [Information] Initiated node sync
+2017-02-23 00:00:00.532 +11:00 [Information] Initialising Scheduling ..
+2017-02-23 00:00:00.550 +11:00 [Information] Starting sync 
+2017-02-23 00:00:00.550 +11:00 [Information] Starting initializing
+2017-02-23 00:00:00.606 +11:00 [Information] ************************************************
+2017-02-23 00:00:00.607 +11:00 [Information] Connecting to Node 
+2017-02-23 00:00:00.609 +11:00 [Information] Node selected ::ffff:127.0.0.1
+2017-02-23 00:00:00.774 +11:00 [Information] Connected...
+2017-02-23 00:00:00.776 +11:00 [Information] Last Seen -->22/02/2017 1:00:00 PM +00:00
+2017-02-23 00:00:00.777 +11:00 [Information] Checking chain
+2017-02-23 00:00:00.779 +11:00 [Information] Loading chain from disk...
+2017-02-23 00:00:00.780 +11:00 [Information] Checking chain file on disk ... 
+2017-02-23 00:00:00.782 +11:00 [Information] Exists, loading now..
+2017-02-23 00:00:02.565 +11:00 [Information] Retrieving latest block...
+2017-02-23 00:00:02.569 +11:00 [Information] Retrieving get latest blocks
+2017-02-23 00:00:02.571 +11:00 [Information] Initialising Repository
+2017-02-23 00:00:08.923 +11:00 [Information] Latest Block HashProof.Core.Models.Mongo.MongoBlockData
+2017-02-23 00:00:08.924 +11:00 [Information] Synching latest chain...
+2017-02-23 00:00:09.110 +11:00 [Information] Lastest Chain Height: 259673
+2017-02-23 00:00:09.116 +11:00 [Information] Retrieving chained blocks from height 4999
+2017-02-23 00:00:09.209 +11:00 [Information] Total blocks to save 254674, hashChunks 255
+2017-02-23 00:00:09.211 +11:00 [Information] Retrieving chunks from 0 - 1000
+2017-02-23 00:00:09.213 +11:00 [Information] Saving blocks in proof service
+2017-02-23 00:00:09.214 +11:00 [Information] Saving blocks
+2017-02-23 00:00:11.525 +11:00 [Information] Saved blocks
+2017-02-23 00:00:11.526 +11:00 [Information] Retrieving chunks from 1000 - 2000
+2017-02-23 00:00:11.527 +11:00 [Information] Saving blocks in proof service
+2017-02-23 00:00:11.528 +11:00 [Information] Saving blocks
+2017-02-23 00:00:13.878 +11:00 [Information] Saved blocks
+2017-02-23 00:00:13.882 +11:00 [Information] Retrieving chunks from 2000 - 3000
+2017-02-23 00:00:13.883 +11:00 [Information] Saving blocks in proof service
+2017-02-23 00:00:13.884 +11:00 [Information] Saving blocks
+2017-02-23 00:00:15.856 +11:00 [Information] Saved blocks
+2017-02-23 00:00:15.857 +11:00 [Information] Retrieving chunks from 3000 - 4000
+2017-02-23 00:00:15.858 +11:00 [Information] Saving blocks in proof service
+2017-02-23 00:00:15.859 +11:00 [Information] Saving blocks
+2017-02-23 00:00:17.864 +11:00 [Information] Saved blocks
+2017-02-23 00:00:17.866 +11:00 [Information] Retrieving chunks from 4000 - 5000
+2017-02-23 00:00:17.867 +11:00 [Information] Saving blocks in proof service
+2017-02-23 00:00:17.868 +11:00 [Information] Saving blocks
+2017-02-23 00:00:19.008 +11:00 [Information] Saved blocks
+2017-02-23 00:00:19.009 +11:00 [Information] Retrieving chunks from 5000 - 6000
+2017-02-23 00:00:19.011 +11:00 [Information] Saving blocks in proof service
+2017-02-23 00:00:19.012 +11:00 [Information] Saving blocks
+2017-02-23 00:00:20.884 +11:00 [Information] Saved blocks
+2017-02-23 00:00:20.887 +11:00 [Information] Retrieving chunks from 6000 - 7000
+2017-02-23 00:00:20.891 +11:00 [Information] Saving blocks in proof service
+2017-02-23 00:00:20.892 +11:00 [Information] Saving blocks
+2017-02-23 00:00:22.850 +11:00 [Information] Saved blocks
+2017-02-23 00:00:22.852 +11:00 [Information] Retrieving chunks from 7000 - 8000
+2017-02-23 00:00:22.854 +11:00 [Information] Saving blocks in proof service
+2017-02-23 00:00:22.854 +11:00 [Information] Saving blocks
+2017-02-23 00:00:24.700 +11:00 [Information] Saved blocks
+2017-02-23 00:00:24.702 +11:00 [Information] Retrieving chunks from 8000 - 9000
+2017-02-23 00:00:24.703 +11:00 [Information] Saving blocks in proof service
+2017-02-23 00:00:24.703 +11:00 [Information] Saving blocks
+2017-02-23 00:00:26.805 +11:00 [Information] Saved blocks
+2017-02-23 00:00:26.807 +11:00 [Information] Retrieving chunks from 9000 - 10000
+2017-02-23 00:00:26.808 +11:00 [Information] Saving blocks in proof service
+2017-02-23 00:00:26.809 +11:00 [Information] Saving blocks
+2017-02-23 00:00:27.983 +11:00 [Information] Saved blocks
+2017-02-23 00:00:27.984 +11:00 [Information] Retrieving chunks from 10000 - 11000
+2017-02-23 00:00:27.985 +11:00 [Information] Saving blocks in proof service
+2017-02-23 00:00:27.986 +11:00 [Information] Saving blocks
+2017-02-23 00:00:29.315 +11:00 [Information] Saved blocks
+2017-02-23 00:00:29.319 +11:00 [Information] Retrieving chunks from 11000 - 12000
+2017-02-23 00:00:29.321 +11:00 [Information] Saving blocks in proof service
+2017-02-23 00:00:29.322 +11:00 [Information] Saving blocks
+2017-02-23 00:00:31.569 +11:00 [Information] Saved blocks
+2017-02-23 00:00:31.573 +11:00 [Information] Retrieving chunks from 12000 - 13000
+2017-02-23 00:00:31.574 +11:00 [Information] Saving blocks in proof service
+2017-02-23 00:00:31.576 +11:00 [Information] Saving blocks
+2017-02-23 00:00:33.868 +11:00 [Information] Saved blocks
+2017-02-23 00:00:33.874 +11:00 [Information] Retrieving chunks from 13000 - 14000
+2017-02-23 00:00:33.878 +11:00 [Information] Saving blocks in proof service
+2017-02-23 00:00:33.881 +11:00 [Information] Saving blocks
+2017-02-23 00:00:35.788 +11:00 [Information] Saved blocks
+2017-02-23 00:00:35.792 +11:00 [Information] Retrieving chunks from 14000 - 15000
+2017-02-23 00:00:35.793 +11:00 [Information] Saving blocks in proof service
+2017-02-23 00:00:35.794 +11:00 [Information] Saving blocks
+2017-02-23 00:00:37.611 +11:00 [Information] Saved blocks
+2017-02-23 00:00:37.613 +11:00 [Information] Retrieving chunks from 15000 - 16000
+2017-02-23 00:00:37.613 +11:00 [Information] Saving blocks in proof service
+2017-02-23 00:00:37.614 +11:00 [Information] Saving blocks
+2017-02-23 00:00:39.687 +11:00 [Information] Saved blocks
+2017-02-23 00:00:39.690 +11:00 [Information] Retrieving chunks from 16000 - 17000
+2017-02-23 00:00:39.691 +11:00 [Information] Saving blocks in proof service
+2017-02-23 00:00:39.693 +11:00 [Information] Saving blocks
+2017-02-23 00:00:41.958 +11:00 [Information] Saved blocks
+2017-02-23 00:00:41.962 +11:00 [Information] Retrieving chunks from 17000 - 18000
+2017-02-23 00:00:41.963 +11:00 [Information] Saving blocks in proof service
+2017-02-23 00:00:41.964 +11:00 [Information] Saving blocks
+2017-02-23 00:00:44.083 +11:00 [Information] Saved blocks
+2017-02-23 00:00:44.084 +11:00 [Information] Retrieving chunks from 18000 - 19000
+2017-02-23 00:00:44.085 +11:00 [Information] Saving blocks in proof service
+2017-02-23 00:00:44.086 +11:00 [Information] Saving blocks
+2017-02-23 00:00:45.768 +11:00 [Information] Saved blocks
+2017-02-23 00:00:45.770 +11:00 [Information] Retrieving chunks from 19000 - 20000
+2017-02-23 00:00:45.771 +11:00 [Information] Saving blocks in proof service
+2017-02-23 00:00:45.772 +11:00 [Information] Saving blocks
+2017-02-23 00:00:48.059 +11:00 [Information] Saved blocks
+2017-02-23 00:00:48.062 +11:00 [Information] Retrieving chunks from 20000 - 21000
+2017-02-23 00:00:48.063 +11:00 [Information] Saving blocks in proof service
+2017-02-23 00:00:48.064 +11:00 [Information] Saving blocks
+2017-02-23 00:00:49.881 +11:00 [Information] Saved blocks
+2017-02-23 00:00:49.882 +11:00 [Information] Retrieving chunks from 21000 - 22000
+2017-02-23 00:00:49.882 +11:00 [Information] Saving blocks in proof service
+2017-02-23 00:00:49.883 +11:00 [Information] Saving blocks
+2017-02-23 00:00:51.732 +11:00 [Information] Saved blocks
+2017-02-23 00:00:51.734 +11:00 [Information] Retrieving chunks from 22000 - 23000
+2017-02-23 00:00:51.735 +11:00 [Information] Saving blocks in proof service
+2017-02-23 00:00:51.736 +11:00 [Information] Saving blocks
+2017-02-23 23:36:08.935 +11:00 [Information] Application base path C:\Projects\Stratis\HashProof\HashProof.Sync\bin\Debug\netcoreapp1.0\win10-x64\data
+2017-02-23 23:36:10.101 +11:00 [Information] Initiasing sync module
+2017-02-23 23:36:10.164 +11:00 [Information] Initiated node sync
+2017-02-23 23:36:10.164 +11:00 [Information] Initialising Scheduling ..
+2017-02-23 23:36:10.179 +11:00 [Information] Starting initializing
+2017-02-23 23:36:10.179 +11:00 [Information] Starting sync 
+2017-02-23 23:36:10.281 +11:00 [Information] ************************************************
+2017-02-23 23:36:10.281 +11:00 [Information] Connecting to Node 
+2017-02-23 23:36:10.281 +11:00 [Information] Node selected ::ffff:127.0.0.1
+2017-02-23 23:36:10.380 +11:00 [Information] Connected...
+2017-02-23 23:36:10.380 +11:00 [Information] Last Seen -->23/02/2017 12:36:10 PM +00:00
+2017-02-23 23:36:10.380 +11:00 [Information] Checking chain
+2017-02-23 23:36:10.380 +11:00 [Information] Loading chain from disk...
+2017-02-23 23:36:10.380 +11:00 [Information] Checking chain file on disk ... 
+2017-02-23 23:36:10.397 +11:00 [Information] No chain found on disk, Syncing chain from node 
+2017-02-23 23:36:25.838 +11:00 [Information] Chain sync completed
+2017-02-23 23:36:25.838 +11:00 [Information] Retrieving latest block...
+2017-02-23 23:36:25.838 +11:00 [Information] Retrieving get latest blocks
+2017-02-23 23:36:25.838 +11:00 [Information] Initialising Repository
+2017-02-23 23:36:31.946 +11:00 [Information] Latest Block HashProof.Core.Models.Mongo.MongoBlockData
+2017-02-23 23:36:31.946 +11:00 [Information] Synching latest chain...
+2017-02-23 23:36:32.012 +11:00 [Information] Lastest Chain Height: 260940
+2017-02-23 23:36:32.015 +11:00 [Information] Retrieving chained blocks from height 260935
+2017-02-23 23:36:32.046 +11:00 [Information] Total blocks to save 5, hashChunks 1
+2017-02-23 23:36:32.046 +11:00 [Information] Retrieving chunks from 0 - 1000
+2017-02-23 23:36:32.062 +11:00 [Information] Saving blocks in proof service
+2017-02-23 23:36:32.062 +11:00 [Information] Saving blocks
+2017-02-23 23:36:32.346 +11:00 [Information] Saved blocks
+2017-02-23 23:36:32.346 +11:00 [Information] Finished syncing...
+2017-02-23 23:36:32.439 +11:00 [Information] Exception while syncing System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Projects\Stratis\HashProof\HashProof.Sync\bin\Debug\netcoreapp1.0\win10-x64\data\chain.dat'.
+   at System.IO.Win32FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, FileStream parent)
+   at System.IO.Win32FileSystem.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, FileStream parent)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.File.Open(String path, FileMode mode)
+   at HashProof.Sync.NodeSync.SaveChain() in C:\Projects\Stratis\HashProof\HashProof.Sync\NodeSync.cs:line 158
+   at HashProof.Sync.NodeSync.Sync() in C:\Projects\Stratis\HashProof\HashProof.Sync\NodeSync.cs:line 248
+2017-02-23 23:37:55.207 +11:00 [Information] Application base path C:\Projects\Stratis\HashProof\HashProof.Sync\bin\Debug\netcoreapp1.0\win10-x64\data
+2017-02-23 23:37:56.341 +11:00 [Information] Initiasing sync module
+2017-02-23 23:37:56.410 +11:00 [Information] Initiated node sync
+2017-02-23 23:37:56.410 +11:00 [Information] Initialising Scheduling ..
+2017-02-23 23:37:56.426 +11:00 [Information] Starting initializing
+2017-02-23 23:37:56.426 +11:00 [Information] Starting sync 
+2017-02-23 23:37:56.511 +11:00 [Information] ************************************************
+2017-02-23 23:37:56.511 +11:00 [Information] Connecting to Node 
+2017-02-23 23:37:56.511 +11:00 [Information] Node selected ::ffff:127.0.0.1
+2017-02-23 23:37:56.673 +11:00 [Information] Connected...
+2017-02-23 23:37:56.690 +11:00 [Information] Last Seen -->23/02/2017 12:37:56 PM +00:00
+2017-02-23 23:37:56.692 +11:00 [Information] Checking chain
+2017-02-23 23:37:56.695 +11:00 [Information] Loading chain from disk...
+2017-02-23 23:37:56.695 +11:00 [Information] Checking chain file on disk ... 
+2017-02-23 23:37:56.695 +11:00 [Information] No chain found on disk, Syncing chain from node 
+2017-02-23 23:38:12.792 +11:00 [Information] Chain sync completed
+2017-02-23 23:38:12.792 +11:00 [Information] Retrieving latest block...
+2017-02-23 23:38:12.792 +11:00 [Information] Retrieving get latest blocks
+2017-02-23 23:38:12.792 +11:00 [Information] Initialising Repository
+2017-02-23 23:38:19.486 +11:00 [Information] Latest Block HashProof.Core.Models.Mongo.MongoBlockData
+2017-02-23 23:38:19.501 +11:00 [Information] Synching latest chain...
+2017-02-23 23:38:19.582 +11:00 [Information] Lastest Chain Height: 260940
+2017-02-23 23:38:19.589 +11:00 [Information] Finished syncing...
+2017-02-23 23:38:20.288 +11:00 [Information] Disconnecting node....
+2017-02-23 23:38:20.319 +11:00 [Information] Checking pending proofs
+2017-02-23 23:38:20.319 +11:00 [Information] Checking pending payments
+2017-02-23 23:38:20.851 +11:00 [Information] Total pending proof payments 0
+2017-02-23 23:38:20.867 +11:00 [Information] Check pending payments finished 
+2017-02-23 23:38:20.889 +11:00 [Information] Connecting to node ...
+2017-02-23 23:38:20.952 +11:00 [Information] Connected..
+2017-02-23 23:38:20.952 +11:00 [Information] Checking pending proofs
+2017-02-23 23:38:21.452 +11:00 [Information] Total pending proof payments 1
+2017-02-23 23:38:21.452 +11:00 [Information] Checking balance SUPpxhEFaa1DzpqYvA7xEcfST64tPTqsct
+2017-02-23 23:38:21.467 +11:00 [Information] Get blocks ...
+2017-02-23 23:38:23.616 +11:00 [Information] Total unspent transactions 1
+2017-02-23 23:38:23.616 +11:00 [Information] Unspent 55274d7810356652f18eeec427b30a734aa40b5dc5d4b86e8a3fa21994267c3d
+2017-02-23 23:38:23.616 +11:00 [Information] Unspent 259475ca0cd633786030997524e73d28a464cacaf2d15ee8874f39280abb1e8b
+2017-02-23 23:38:23.616 +11:00 [Information] Unspent 14d4170049b6c6cd5e8d780aae4249f4ea7cc64e8d110c883a143d49653a53ab
+2017-02-23 23:38:23.616 +11:00 [Information] Unspent 9fd12c7a8db67ac84dbcc98b628a83710ced178d4fcf0b032458588509cec72b
+2017-02-23 23:38:23.616 +11:00 [Information] Unspent 41a47ff021b2802b4ed3d005dd519d74463521482429bf030b010356b75286ba
+2017-02-23 23:38:23.616 +11:00 [Information] Unspent 5824d3ab1d0a679ad3f02bdb0b7479ae6a4050ef2eca5f50b5a89f3aba02b325
+2017-02-23 23:38:23.616 +11:00 [Information] Unspent 5824d3ab1d0a679ad3f02bdb0b7479ae6a4050ef2eca5f50b5a89f3aba02b325
+2017-02-23 23:38:23.616 +11:00 [Information] Total outputs found 0
+2017-02-23 23:38:23.632 +11:00 [Information] Total inputs 0 from prev ouputs 0 with balance 0
+2017-02-23 23:38:23.632 +11:00 [Information] Check pending proof finished 
+2017-02-23 23:38:27.644 +11:00 [Information] Node disconnecting...
+2017-02-23 23:38:27.644 +11:00 [Information] Checking confirm pending proofs 
+2017-02-23 23:38:28.129 +11:00 [Information] Total confirm pending proofs 0
+2017-02-23 23:38:28.129 +11:00 [Information] Check confirm pending proofs finished 
+2017-02-23 23:38:28.144 +11:00 [Information] ************************************************
+2017-02-23 23:40:52.382 +11:00 [Information] Application base path C:\Projects\Stratis\HashProof\HashProof.Sync\bin\Debug\netcoreapp1.0\win10-x64\data
+2017-02-23 23:40:53.523 +11:00 [Information] Initiasing sync module
+2017-02-23 23:40:53.586 +11:00 [Information] Initiated node sync
+2017-02-23 23:40:53.586 +11:00 [Information] Initialising Scheduling ..
+2017-02-23 23:40:53.601 +11:00 [Information] Starting initializing
+2017-02-23 23:40:53.601 +11:00 [Information] Starting sync 
+2017-02-23 23:40:53.686 +11:00 [Information] ************************************************
+2017-02-23 23:40:53.686 +11:00 [Information] Connecting to Node 
+2017-02-23 23:40:53.686 +11:00 [Information] Node selected ::ffff:127.0.0.1
+2017-02-23 23:40:53.824 +11:00 [Information] Connected...
+2017-02-23 23:40:53.824 +11:00 [Information] Last Seen -->23/02/2017 12:40:53 PM +00:00
+2017-02-23 23:40:53.824 +11:00 [Information] Checking chain
+2017-02-23 23:40:53.824 +11:00 [Information] Loading chain from disk...
+2017-02-23 23:40:53.824 +11:00 [Information] Checking chain file on disk ... 
+2017-02-23 23:40:53.824 +11:00 [Information] Exists, loading now..
+2017-02-23 23:40:55.606 +11:00 [Information] Retrieving latest block...
+2017-02-23 23:40:55.606 +11:00 [Information] Retrieving get latest blocks
+2017-02-23 23:40:55.606 +11:00 [Information] Initialising Repository
+2017-02-23 23:41:01.299 +11:00 [Information] Latest Block HashProof.Core.Models.Mongo.MongoBlockData
+2017-02-23 23:41:01.299 +11:00 [Information] Synching latest chain...
+2017-02-23 23:41:01.516 +11:00 [Information] Lastest Chain Height: 260944
+2017-02-23 23:41:01.516 +11:00 [Information] Retrieving chained blocks from height 260940
+2017-02-23 23:41:01.553 +11:00 [Information] Total blocks to save 4, hashChunks 1
+2017-02-23 23:41:01.553 +11:00 [Information] Retrieving chunks from 0 - 1000
+2017-02-23 23:41:01.553 +11:00 [Information] Saving blocks in proof service
+2017-02-23 23:41:01.553 +11:00 [Information] Saving blocks
+2017-02-23 23:41:01.831 +11:00 [Information] Saved blocks
+2017-02-23 23:41:01.847 +11:00 [Information] Finished syncing...
+2017-02-23 23:41:02.490 +11:00 [Information] Disconnecting node....
+2017-02-23 23:41:02.506 +11:00 [Information] Checking pending proofs
+2017-02-23 23:41:02.522 +11:00 [Information] Checking pending payments
+2017-02-23 23:41:05.371 +11:00 [Information] Total pending proof payments 0
+2017-02-23 23:41:05.371 +11:00 [Information] Check pending payments finished 
+2017-02-23 23:41:05.386 +11:00 [Information] Connecting to node ...
+2017-02-23 23:41:05.518 +11:00 [Information] Connected..
+2017-02-23 23:41:05.518 +11:00 [Information] Checking pending proofs
+2017-02-23 23:41:06.049 +11:00 [Information] Total pending proof payments 1
+2017-02-23 23:41:06.069 +11:00 [Information] Checking balance SUPpxhEFaa1DzpqYvA7xEcfST64tPTqsct
+2017-02-23 23:41:06.072 +11:00 [Information] Get blocks ...
+2017-02-23 23:41:08.099 +11:00 [Information] Total unspent transactions 1
+2017-02-23 23:41:08.115 +11:00 [Information] -> 55274d7810356652f18eeec427b30a734aa40b5dc5d4b86e8a3fa21994267c3d
+2017-02-23 23:41:08.115 +11:00 [Information] -> 259475ca0cd633786030997524e73d28a464cacaf2d15ee8874f39280abb1e8b
+2017-02-23 23:41:08.130 +11:00 [Information] -> 14d4170049b6c6cd5e8d780aae4249f4ea7cc64e8d110c883a143d49653a53ab
+2017-02-23 23:41:08.130 +11:00 [Information] -> 9fd12c7a8db67ac84dbcc98b628a83710ced178d4fcf0b032458588509cec72b
+2017-02-23 23:41:08.130 +11:00 [Information] -> 41a47ff021b2802b4ed3d005dd519d74463521482429bf030b010356b75286ba
+2017-02-23 23:41:08.146 +11:00 [Information] -> 5824d3ab1d0a679ad3f02bdb0b7479ae6a4050ef2eca5f50b5a89f3aba02b325
+2017-02-23 23:41:08.162 +11:00 [Information] Unspent 41a47ff021b2802b4ed3d005dd519d74463521482429bf030b010356b75286ba
+2017-02-23 23:41:08.162 +11:00 [Information] Total outputs found 1
+2017-02-23 23:41:08.184 +11:00 [Information] Total inputs 1 from prev ouputs 1 with balance 10
+2017-02-23 23:41:08.199 +11:00 [Information] bytes : 40
+2017-02-23 23:41:08.199 +11:00 [Information] docScriptKey -> OP_RETURN 3338363565343263386231336336333165616363623961376266666234316566303161663966,  Length -> 40
+2017-02-23 23:41:08.246 +11:00 [Information] Standard -> False
+2017-02-23 23:41:08.362 +11:00 [Information] {
+  "hash": "d23b0f2233fbc426d5888664704af2571f036943fc5463102ce330884f242a96",
+  "ver": 1,
+  "vin_sz": 1,
+  "vout_sz": 2,
+  "time": 1487853668,
+  "lock_time": 0,
+  "size": 244,
+  "in": [
+    {
+      "prev_out": {
+        "hash": "41a47ff021b2802b4ed3d005dd519d74463521482429bf030b010356b75286ba",
+        "n": 1
+      },
+      "scriptSig": "3044022078c236768b997baa488e5eae69419caf58193f765b3797a753aa4f9de355fd1e022020b9797ad2f6b8581915b231d6243f10f9eac4cfb892da2259aca33852e6007e01 03b93fda9cbd19a7c09c69397372969541771a845451addd503b75034c8a84b5fd"
+    }
+  ],
+  "out": [
+    {
+      "value": "0.00001000",
+      "scriptPubKey": "OP_RETURN 3338363565343263386231336336333165616363623961376266666234316566303161663966"
+    },
+    {
+      "value": "9.99989000",
+      "scriptPubKey": "OP_DUP OP_HASH160 c50af73ca356ff2cc92022b923cddba6754ceabe OP_EQUALVERIFY OP_CHECKSIG"
+    }
+  ]
+}
+2017-02-23 23:41:08.362 +11:00 [Information] Saving pending proofs
+2017-02-23 23:41:08.400 +11:00 [Information] Check pending proof finished 
+2017-02-23 23:41:12.426 +11:00 [Information] Node disconnecting...
+2017-02-23 23:41:12.426 +11:00 [Information] Checking confirm pending proofs 
+2017-02-23 23:41:13.179 +11:00 [Information] Total confirm pending proofs 1
+2017-02-23 23:41:13.179 +11:00 [Information] bytes : 40
+2017-02-23 23:41:13.195 +11:00 [Information] Get blocks ...
+2017-02-23 23:41:14.929 +11:00 [Information] Check confirm pending proofs finished 
+2017-02-23 23:41:14.929 +11:00 [Information] ************************************************

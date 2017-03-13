@@ -1,0 +1,67 @@
+2017-02-16 23:25:33.319 +11:00 [Information] Application base path C:\Projects\Stratis\HashProof\HashProof.Sync\bin\Debug\netcoreapp1.0\data
+2017-02-16 23:25:34.563 +11:00 [Information] Initiasing sync module
+2017-02-16 23:25:37.252 +11:00 [Information] Initiated node sync
+2017-02-16 23:25:37.258 +11:00 [Information] Initialising Scheduling ..
+2017-02-16 23:25:37.353 +11:00 [Information] Starting initializing
+2017-02-16 23:25:37.355 +11:00 [Information] Starting sync 
+2017-02-16 23:25:37.635 +11:00 [Information] ************************************************
+2017-02-16 23:25:37.644 +11:00 [Information] Connecting to Node 
+2017-02-16 23:25:37.651 +11:00 [Information] Node selected ::ffff:127.0.0.1
+2017-02-16 23:25:37.922 +11:00 [Information] Connected...
+2017-02-16 23:25:37.930 +11:00 [Information] Last Seen -->16/02/2017 12:25:37 PM +00:00
+2017-02-16 23:25:37.936 +11:00 [Information] Checking chain
+2017-02-16 23:25:37.940 +11:00 [Information] Loading chain from disk...
+2017-02-16 23:25:37.946 +11:00 [Information] Checking chain file on disk ... 
+2017-02-16 23:25:37.951 +11:00 [Information] Exists, loading now..
+2017-02-16 23:25:43.909 +11:00 [Information] Retrieving latest block...
+2017-02-16 23:25:43.918 +11:00 [Information] Retrieving get latest blocks
+2017-02-16 23:25:43.925 +11:00 [Information] Initialising Repository
+2017-02-16 23:25:59.775 +11:00 [Information] Latest Block HashProof.Core.Models.Mongo.MongoBlockData
+2017-02-16 23:25:59.780 +11:00 [Information] Synching latest chain...
+2017-02-16 23:26:00.102 +11:00 [Information] Lastest Chain Height: 251915
+2017-02-16 23:26:00.109 +11:00 [Information] Retrieving chained blocks from height 250602
+2017-02-16 23:26:00.122 +11:00 [Information] Total blocks to save 1313
+2017-02-16 23:26:00.142 +11:00 [Information] Retrieving chunks from 0 - 1000
+2017-02-16 23:26:00.150 +11:00 [Information] Saving blocks
+2017-02-16 23:26:03.249 +11:00 [Information] Saved blocks
+2017-02-16 23:26:03.255 +11:00 [Information] Retrieving chunks from 1000 - 2000
+2017-02-16 23:26:03.259 +11:00 [Information] Saving blocks
+2017-02-16 23:26:03.844 +11:00 [Information] Saved blocks
+2017-02-16 23:26:03.847 +11:00 [Information] Finished syncing...
+2017-02-16 23:26:05.517 +11:00 [Information] Disconnecting node....
+2017-02-16 23:26:05.579 +11:00 [Information] ************************************************
+2017-02-16 23:26:07.316 +11:00 [Information] Starting sync 
+2017-02-16 23:26:07.330 +11:00 [Information] ************************************************
+2017-02-16 23:26:07.340 +11:00 [Information] Connecting to Node 
+2017-02-16 23:26:07.351 +11:00 [Information] Node selected ::ffff:127.0.0.1
+2017-02-16 23:26:07.423 +11:00 [Information] Connected...
+2017-02-16 23:26:07.431 +11:00 [Information] Last Seen -->16/02/2017 12:26:07 PM +00:00
+2017-02-16 23:26:07.441 +11:00 [Information] Checking chain
+2017-02-16 23:26:07.452 +11:00 [Information] Retrieving latest block...
+2017-02-16 23:26:07.460 +11:00 [Information] Retrieving get latest blocks
+2017-02-16 23:26:10.102 +11:00 [Information] Latest Block HashProof.Core.Models.Mongo.MongoBlockData
+2017-02-16 23:26:10.110 +11:00 [Information] Synching latest chain...
+2017-02-16 23:26:10.335 +11:00 [Information] Lastest Chain Height: 251916
+2017-02-16 23:26:10.343 +11:00 [Information] Retrieving chained blocks from height 251915
+2017-02-16 23:26:10.352 +11:00 [Information] Total blocks to save 1
+2017-02-16 23:26:10.364 +11:00 [Information] Retrieving chunks from 0 - 1000
+2017-02-16 23:26:10.374 +11:00 [Information] Saving blocks
+2017-02-16 23:26:10.438 +11:00 [Information] Saved blocks
+2017-02-16 23:26:10.446 +11:00 [Information] Finished syncing...
+2017-02-16 23:26:12.229 +11:00 [Information] Disconnecting node....
+2017-02-16 23:26:12.239 +11:00 [Information] ************************************************
+2017-02-16 23:26:37.318 +11:00 [Information] Starting sync 
+2017-02-16 23:26:37.333 +11:00 [Information] ************************************************
+2017-02-16 23:26:37.340 +11:00 [Information] Connecting to Node 
+2017-02-16 23:26:37.347 +11:00 [Information] Node selected ::ffff:127.0.0.1
+2017-02-16 23:26:37.369 +11:00 [Information] Connected...
+2017-02-16 23:26:37.378 +11:00 [Information] Last Seen -->16/02/2017 12:26:37 PM +00:00
+2017-02-16 23:26:37.387 +11:00 [Information] Checking chain
+2017-02-16 23:26:37.401 +11:00 [Information] Retrieving latest block...
+2017-02-16 23:26:37.412 +11:00 [Information] Retrieving get latest blocks
+2017-02-16 23:26:39.901 +11:00 [Information] Latest Block HashProof.Core.Models.Mongo.MongoBlockData
+2017-02-16 23:26:39.903 +11:00 [Information] Synching latest chain...
+2017-02-16 23:26:39.922 +11:00 [Information] Lastest Chain Height: 251916
+2017-02-16 23:26:39.924 +11:00 [Information] Finished syncing...
+2017-02-16 23:26:40.644 +11:00 [Information] Disconnecting node....
+2017-02-16 23:26:40.647 +11:00 [Information] ************************************************

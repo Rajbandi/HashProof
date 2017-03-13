@@ -1,0 +1,2 @@
+2017-02-11 23:53:43.288 +11:00 [Information] SPV Wallet starting
+2017-02-11 23:53:43.596 +11:00 [Information] SPV Wallet initi
